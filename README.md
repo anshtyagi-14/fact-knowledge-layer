@@ -61,7 +61,7 @@ Navigate to `http://localhost:5173` in your browser to access the control center
 
 ## 🎥 Video Demo
 
-[👉 **Watch the 3-minute Demo Video Here**](LINK_TO_YOUR_YOUTUBE_OR_LOOM_VIDEO)
+[👉 **Watch the 3-minute Demo Video Here**](https://drive.google.com/file/d/1sG07XTFjJtlB7hRLWGoLFcNc_26McbYW/view?usp=drive_link)
 
 *In this transmission, we demonstrate the autonomous ingestion of a financial document, the real-time processing pipeline, and the resolution of the four required edge cases: a corroborated fact, a genuine contradiction, a reconciled contradiction, and a handled extraction failure.*
 
